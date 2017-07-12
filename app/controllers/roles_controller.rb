@@ -1,0 +1,2 @@
+class RolesController < ApiController
+end

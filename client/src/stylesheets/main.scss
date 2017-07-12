@@ -1,0 +1,12 @@
+@import './variables.scss';
+@import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+@import './buttons.scss';
+
+
+html {
+  height: 100%;
+}
+
+body {
+  background: $caleb-cream;
+}

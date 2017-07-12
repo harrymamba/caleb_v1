@@ -1,0 +1,12 @@
+.btn-primary {
+  background: $caleb-main-color;
+  border-color: $caleb-main-color;
+  border-radius: 0;
+}
+.btn-primary:hover,
+.btn-primary:focus,{
+  background: $caleb-secondary-color;
+  border-color: $caleb-secondary-color;
+}
+
+.bg-default { background-color: $panel-default-color!important; }
